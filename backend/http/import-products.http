@@ -1,0 +1,6 @@
+### Import products from JSON data provider
+POST http://localhost:8080/api/dataprovider/import/json
+Content-Type: application/json
+
+###
+

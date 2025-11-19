@@ -1,0 +1,25 @@
+spring:
+  neo4j:
+    uri: bolt://localhost:7687
+    authentication:
+      username: neo4j
+      password: password123
+
+  data:
+    neo4j:
+      use-native-types: true
+
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+server:
+  port: 8080
+
+logging:
+  level:
+    com.productmanagement: DEBUG
+    org.springframework.data.neo4j: DEBUG
+    org.springframework.data.neo4j.cypher.deprecation: ERROR
+    org.springframework.data.neo4j.core.mapping.Neo4jPersistentEntity: ERROR

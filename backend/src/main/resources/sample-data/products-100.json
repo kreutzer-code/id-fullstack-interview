@@ -1,0 +1,1107 @@
+[
+  {
+    "internalId": "INT_001",
+    "globalTradeIdentifier": "0123456789012",
+    "attributes": [
+      {"name": "Brand", "value": "TechPro"},
+      {"name": "Category", "value": "Electronics"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Storage", "value": "256GB"},
+      {"name": "Screen Size", "value": "6.1 inch"}
+    ]
+  },
+  {
+    "internalId": "INT_002",
+    "globalTradeIdentifier": "0123456789013",
+    "attributes": [
+      {"name": "Brand", "value": "Samsung"},
+      {"name": "Category", "value": "Electronics"},
+      {"name": "Color", "value": "White"},
+      {"name": "Storage", "value": "128GB"},
+      {"name": "Screen Size", "value": "6.5 inch"}
+    ]
+  },
+  {
+    "internalId": "INT_003",
+    "globalTradeIdentifier": "0123456789014",
+    "attributes": [
+      {"name": "Brand", "value": "Nike"},
+      {"name": "Category", "value": "Footwear"},
+      {"name": "Color", "value": "Red"},
+      {"name": "Size", "value": "42"},
+      {"name": "Material", "value": "Leather"}
+    ]
+  },
+  {
+    "internalId": "INT_004",
+    "globalTradeIdentifier": "0123456789015",
+    "attributes": [
+      {"name": "Brand", "value": "Adidas"},
+      {"name": "Category", "value": "Footwear"},
+      {"name": "Color", "value": "Blue"},
+      {"name": "Size", "value": "40"},
+      {"name": "Material", "value": "Synthetic"}
+    ]
+  },
+  {
+    "internalId": "INT_005",
+    "globalTradeIdentifier": "0123456789016",
+    "attributes": [
+      {"name": "Brand", "value": "Sony"},
+      {"name": "Category", "value": "Audio"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Type", "value": "Over-Ear"},
+      {"name": "Wireless", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_006",
+    "globalTradeIdentifier": "0123456789017",
+    "attributes": [
+      {"name": "Brand", "value": "Bose"},
+      {"name": "Category", "value": "Audio"},
+      {"name": "Color", "value": "Silver"},
+      {"name": "Type", "value": "In-Ear"},
+      {"name": "Wireless", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_007",
+    "globalTradeIdentifier": "0123456789018",
+    "attributes": [
+      {"name": "Brand", "value": "Dell"},
+      {"name": "Category", "value": "Computers"},
+      {"name": "RAM", "value": "16GB"},
+      {"name": "Storage", "value": "512GB SSD"},
+      {"name": "Processor", "value": "Intel i7"}
+    ]
+  },
+  {
+    "internalId": "INT_008",
+    "globalTradeIdentifier": "0123456789019",
+    "attributes": [
+      {"name": "Brand", "value": "HP"},
+      {"name": "Category", "value": "Computers"},
+      {"name": "RAM", "value": "8GB"},
+      {"name": "Storage", "value": "256GB SSD"},
+      {"name": "Processor", "value": "Intel i5"}
+    ]
+  },
+  {
+    "internalId": "INT_009",
+    "globalTradeIdentifier": "0123456789020",
+    "attributes": [
+      {"name": "Brand", "value": "Apple"},
+      {"name": "Category", "value": "Tablets"},
+      {"name": "Color", "value": "Space Gray"},
+      {"name": "Storage", "value": "128GB"},
+      {"name": "Screen Size", "value": "10.9 inch"}
+    ]
+  },
+  {
+    "internalId": "INT_010",
+    "globalTradeIdentifier": "0123456789021",
+    "attributes": [
+      {"name": "Brand", "value": "Samsung"},
+      {"name": "Category", "value": "Tablets"},
+      {"name": "Color", "value": "Silver"},
+      {"name": "Storage", "value": "64GB"},
+      {"name": "Screen Size", "value": "11 inch"}
+    ]
+  },
+  {
+    "internalId": "INT_011",
+    "globalTradeIdentifier": "0123456789022",
+    "attributes": [
+      {"name": "Brand", "value": "Canon"},
+      {"name": "Category", "value": "Cameras"},
+      {"name": "Type", "value": "DSLR"},
+      {"name": "Megapixels", "value": "24.1"},
+      {"name": "Lens", "value": "18-55mm"}
+    ]
+  },
+  {
+    "internalId": "INT_012",
+    "globalTradeIdentifier": "0123456789023",
+    "attributes": [
+      {"name": "Brand", "value": "Nikon"},
+      {"name": "Category", "value": "Cameras"},
+      {"name": "Type", "value": "Mirrorless"},
+      {"name": "Megapixels", "value": "20.9"},
+      {"name": "Lens", "value": "16-50mm"}
+    ]
+  },
+  {
+    "internalId": "INT_013",
+    "globalTradeIdentifier": "0123456789024",
+    "attributes": [
+      {"name": "Brand", "value": "LG"},
+      {"name": "Category", "value": "TVs"},
+      {"name": "Screen Size", "value": "55 inch"},
+      {"name": "Resolution", "value": "4K"},
+      {"name": "Smart TV", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_014",
+    "globalTradeIdentifier": "0123456789025",
+    "attributes": [
+      {"name": "Brand", "value": "Samsung"},
+      {"name": "Category", "value": "TVs"},
+      {"name": "Screen Size", "value": "65 inch"},
+      {"name": "Resolution", "value": "8K"},
+      {"name": "Smart TV", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_015",
+    "globalTradeIdentifier": "0123456789026",
+    "attributes": [
+      {"name": "Brand", "value": "Puma"},
+      {"name": "Category", "value": "Apparel"},
+      {"name": "Size", "value": "M"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Material", "value": "Cotton"}
+    ]
+  },
+  {
+    "internalId": "INT_016",
+    "globalTradeIdentifier": "0123456789027",
+    "attributes": [
+      {"name": "Brand", "value": "Under Armour"},
+      {"name": "Category", "value": "Apparel"},
+      {"name": "Size", "value": "L"},
+      {"name": "Color", "value": "Gray"},
+      {"name": "Material", "value": "Polyester"}
+    ]
+  },
+  {
+    "internalId": "INT_017",
+    "globalTradeIdentifier": "0123456789028",
+    "attributes": [
+      {"name": "Brand", "value": "Logitech"},
+      {"name": "Category", "value": "Accessories"},
+      {"name": "Type", "value": "Wireless Mouse"},
+      {"name": "Color", "value": "Black"},
+      {"name": "DPI", "value": "4000"}
+    ]
+  },
+  {
+    "internalId": "INT_018",
+    "globalTradeIdentifier": "0123456789029",
+    "attributes": [
+      {"name": "Brand", "value": "Razer"},
+      {"name": "Category", "value": "Accessories"},
+      {"name": "Type", "value": "Gaming Keyboard"},
+      {"name": "Color", "value": "RGB"},
+      {"name": "Switches", "value": "Mechanical"}
+    ]
+  },
+  {
+    "internalId": "INT_019",
+    "globalTradeIdentifier": "0123456789030",
+    "attributes": [
+      {"name": "Brand", "value": "Fitbit"},
+      {"name": "Category", "value": "Wearables"},
+      {"name": "Type", "value": "Fitness Tracker"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Water Resistant", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_020",
+    "globalTradeIdentifier": "0123456789031",
+    "attributes": [
+      {"name": "Brand", "value": "Garmin"},
+      {"name": "Category", "value": "Wearables"},
+      {"name": "Type", "value": "Smartwatch"},
+      {"name": "Color", "value": "Silver"},
+      {"name": "GPS", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_021",
+    "globalTradeIdentifier": "0123456789032",
+    "attributes": [
+      {"name": "Brand", "value": "Dyson"},
+      {"name": "Category", "value": "Home Appliances"},
+      {"name": "Type", "value": "Vacuum Cleaner"},
+      {"name": "Color", "value": "Purple"},
+      {"name": "Cordless", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_022",
+    "globalTradeIdentifier": "0123456789033",
+    "attributes": [
+      {"name": "Brand", "value": "iRobot"},
+      {"name": "Category", "value": "Home Appliances"},
+      {"name": "Type", "value": "Robot Vacuum"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Smart Home", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_023",
+    "globalTradeIdentifier": "0123456789034",
+    "attributes": [
+      {"name": "Brand", "value": "KitchenAid"},
+      {"name": "Category", "value": "Kitchen"},
+      {"name": "Type", "value": "Stand Mixer"},
+      {"name": "Color", "value": "Red"},
+      {"name": "Capacity", "value": "5 Quart"}
+    ]
+  },
+  {
+    "internalId": "INT_024",
+    "globalTradeIdentifier": "0123456789035",
+    "attributes": [
+      {"name": "Brand", "value": "Cuisinart"},
+      {"name": "Category", "value": "Kitchen"},
+      {"name": "Type", "value": "Food Processor"},
+      {"name": "Color", "value": "Silver"},
+      {"name": "Capacity", "value": "14 Cup"}
+    ]
+  },
+  {
+    "internalId": "INT_025",
+    "globalTradeIdentifier": "0123456789036",
+    "attributes": [
+      {"name": "Brand", "value": "Nespresso"},
+      {"name": "Category", "value": "Kitchen"},
+      {"name": "Type", "value": "Coffee Machine"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Capsule System", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_026",
+    "globalTradeIdentifier": "0123456789037",
+    "attributes": [
+      {"name": "Brand", "value": "Keurig"},
+      {"name": "Category", "value": "Kitchen"},
+      {"name": "Type", "value": "Coffee Maker"},
+      {"name": "Color", "value": "Silver"},
+      {"name": "K-Cup Compatible", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_027",
+    "globalTradeIdentifier": "0123456789038",
+    "attributes": [
+      {"name": "Brand", "value": "Philips"},
+      {"name": "Category", "value": "Personal Care"},
+      {"name": "Type", "value": "Electric Shaver"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Wet & Dry", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_028",
+    "globalTradeIdentifier": "0123456789039",
+    "attributes": [
+      {"name": "Brand", "value": "Braun"},
+      {"name": "Category", "value": "Personal Care"},
+      {"name": "Type", "value": "Hair Dryer"},
+      {"name": "Color", "value": "White"},
+      {"name": "Ionic", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_029",
+    "globalTradeIdentifier": "0123456789040",
+    "attributes": [
+      {"name": "Brand", "value": "IKEA"},
+      {"name": "Category", "value": "Furniture"},
+      {"name": "Type", "value": "Desk"},
+      {"name": "Color", "value": "White"},
+      {"name": "Material", "value": "Wood"}
+    ]
+  },
+  {
+    "internalId": "INT_030",
+    "globalTradeIdentifier": "0123456789041",
+    "attributes": [
+      {"name": "Brand", "value": "Herman Miller"},
+      {"name": "Category", "value": "Furniture"},
+      {"name": "Type", "value": "Office Chair"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Ergonomic", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_031",
+    "globalTradeIdentifier": "0123456789042",
+    "attributes": [
+      {"name": "Brand", "value": "Seagate"},
+      {"name": "Category", "value": "Storage"},
+      {"name": "Type", "value": "External HDD"},
+      {"name": "Capacity", "value": "2TB"},
+      {"name": "USB", "value": "3.0"}
+    ]
+  },
+  {
+    "internalId": "INT_032",
+    "globalTradeIdentifier": "0123456789043",
+    "attributes": [
+      {"name": "Brand", "value": "Western Digital"},
+      {"name": "Category", "value": "Storage"},
+      {"name": "Type", "value": "External SSD"},
+      {"name": "Capacity", "value": "1TB"},
+      {"name": "USB", "value": "3.1"}
+    ]
+  },
+  {
+    "internalId": "INT_033",
+    "globalTradeIdentifier": "0123456789044",
+    "attributes": [
+      {"name": "Brand", "value": "SanDisk"},
+      {"name": "Category", "value": "Storage"},
+      {"name": "Type", "value": "USB Flash Drive"},
+      {"name": "Capacity", "value": "128GB"},
+      {"name": "USB", "value": "3.0"}
+    ]
+  },
+  {
+    "internalId": "INT_034",
+    "globalTradeIdentifier": "0123456789045",
+    "attributes": [
+      {"name": "Brand", "value": "Kingston"},
+      {"name": "Category", "value": "Storage"},
+      {"name": "Type", "value": "SD Card"},
+      {"name": "Capacity", "value": "64GB"},
+      {"name": "Speed Class", "value": "UHS-I"}
+    ]
+  },
+  {
+    "internalId": "INT_035",
+    "globalTradeIdentifier": "0123456789046",
+    "attributes": [
+      {"name": "Brand", "value": "Anker"},
+      {"name": "Category", "value": "Accessories"},
+      {"name": "Type", "value": "Power Bank"},
+      {"name": "Capacity", "value": "20000mAh"},
+      {"name": "Fast Charging", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_036",
+    "globalTradeIdentifier": "0123456789047",
+    "attributes": [
+      {"name": "Brand", "value": "Belkin"},
+      {"name": "Category", "value": "Accessories"},
+      {"name": "Type", "value": "USB-C Cable"},
+      {"name": "Length", "value": "2m"},
+      {"name": "Fast Charging", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_037",
+    "globalTradeIdentifier": "0123456789048",
+    "attributes": [
+      {"name": "Brand", "value": "TP-Link"},
+      {"name": "Category", "value": "Networking"},
+      {"name": "Type", "value": "WiFi Router"},
+      {"name": "Speed", "value": "AC1750"},
+      {"name": "Dual Band", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_038",
+    "globalTradeIdentifier": "0123456789049",
+    "attributes": [
+      {"name": "Brand", "value": "Netgear"},
+      {"name": "Category", "value": "Networking"},
+      {"name": "Type", "value": "WiFi Extender"},
+      {"name": "Speed", "value": "AC1200"},
+      {"name": "Dual Band", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_039",
+    "globalTradeIdentifier": "0123456789050",
+    "attributes": [
+      {"name": "Brand", "value": "Asus"},
+      {"name": "Category", "value": "Computers"},
+      {"name": "Type", "value": "Gaming Laptop"},
+      {"name": "RAM", "value": "32GB"},
+      {"name": "GPU", "value": "RTX 3070"}
+    ]
+  },
+  {
+    "internalId": "INT_040",
+    "globalTradeIdentifier": "0123456789051",
+    "attributes": [
+      {"name": "Brand", "value": "MSI"},
+      {"name": "Category", "value": "Computers"},
+      {"name": "Type", "value": "Gaming Desktop"},
+      {"name": "RAM", "value": "64GB"},
+      {"name": "GPU", "value": "RTX 4080"}
+    ]
+  },
+  {
+    "internalId": "INT_041",
+    "globalTradeIdentifier": "0123456789052",
+    "attributes": [
+      {"name": "Brand", "value": "Acer"},
+      {"name": "Category", "value": "Monitors"},
+      {"name": "Screen Size", "value": "27 inch"},
+      {"name": "Resolution", "value": "4K"},
+      {"name": "Refresh Rate", "value": "144Hz"}
+    ]
+  },
+  {
+    "internalId": "INT_042",
+    "globalTradeIdentifier": "0123456789053",
+    "attributes": [
+      {"name": "Brand", "value": "BenQ"},
+      {"name": "Category", "value": "Monitors"},
+      {"name": "Screen Size", "value": "32 inch"},
+      {"name": "Resolution", "value": "2K"},
+      {"name": "Refresh Rate", "value": "75Hz"}
+    ]
+  }
+,
+  {
+    "internalId": "INT_043",
+    "globalTradeIdentifier": "0123456789054",
+    "attributes": [
+      {"name": "Brand", "value": "JBL"},
+      {"name": "Category", "value": "Audio"},
+      {"name": "Type", "value": "Bluetooth Speaker"},
+      {"name": "Color", "value": "Blue"},
+      {"name": "Waterproof", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_044",
+    "globalTradeIdentifier": "0123456789055",
+    "attributes": [
+      {"name": "Brand", "value": "Sonos"},
+      {"name": "Category", "value": "Audio"},
+      {"name": "Type", "value": "Smart Speaker"},
+      {"name": "Color", "value": "White"},
+      {"name": "Voice Assistant", "value": "Alexa"}
+    ]
+  },
+  {
+    "internalId": "INT_045",
+    "globalTradeIdentifier": "0123456789056",
+    "attributes": [
+      {"name": "Brand", "value": "GoPro"},
+      {"name": "Category", "value": "Cameras"},
+      {"name": "Type", "value": "Action Camera"},
+      {"name": "Resolution", "value": "4K"},
+      {"name": "Waterproof", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_046",
+    "globalTradeIdentifier": "0123456789057",
+    "attributes": [
+      {"name": "Brand", "value": "DJI"},
+      {"name": "Category", "value": "Cameras"},
+      {"name": "Type", "value": "Drone"},
+      {"name": "Camera", "value": "4K"},
+      {"name": "Flight Time", "value": "30 min"}
+    ]
+  },
+  {
+    "internalId": "INT_047",
+    "globalTradeIdentifier": "0123456789058",
+    "attributes": [
+      {"name": "Brand", "value": "Kindle"},
+      {"name": "Category", "value": "E-Readers"},
+      {"name": "Screen Size", "value": "6 inch"},
+      {"name": "Storage", "value": "8GB"},
+      {"name": "Backlight", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_048",
+    "globalTradeIdentifier": "0123456789059",
+    "attributes": [
+      {"name": "Brand", "value": "Kobo"},
+      {"name": "Category", "value": "E-Readers"},
+      {"name": "Screen Size", "value": "7 inch"},
+      {"name": "Storage", "value": "32GB"},
+      {"name": "Waterproof", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_049",
+    "globalTradeIdentifier": "0123456789060",
+    "attributes": [
+      {"name": "Brand", "value": "Nintendo"},
+      {"name": "Category", "value": "Gaming"},
+      {"name": "Type", "value": "Console"},
+      {"name": "Model", "value": "Switch"},
+      {"name": "Portable", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_050",
+    "globalTradeIdentifier": "0123456789061",
+    "attributes": [
+      {"name": "Brand", "value": "PlayStation"},
+      {"name": "Category", "value": "Gaming"},
+      {"name": "Type", "value": "Console"},
+      {"name": "Model", "value": "PS5"},
+      {"name": "Storage", "value": "825GB"}
+    ]
+  },
+  {
+    "internalId": "INT_051",
+    "globalTradeIdentifier": "0123456789062",
+    "attributes": [
+      {"name": "Brand", "value": "Xbox"},
+      {"name": "Category", "value": "Gaming"},
+      {"name": "Type", "value": "Console"},
+      {"name": "Model", "value": "Series X"},
+      {"name": "Storage", "value": "1TB"}
+    ]
+  },
+  {
+    "internalId": "INT_052",
+    "globalTradeIdentifier": "0123456789063",
+    "attributes": [
+      {"name": "Brand", "value": "Oculus"},
+      {"name": "Category", "value": "VR"},
+      {"name": "Type", "value": "VR Headset"},
+      {"name": "Model", "value": "Quest 2"},
+      {"name": "Storage", "value": "128GB"}
+    ]
+  },
+  {
+    "internalId": "INT_053",
+    "globalTradeIdentifier": "0123456789064",
+    "attributes": [
+      {"name": "Brand", "value": "HTC"},
+      {"name": "Category", "value": "VR"},
+      {"name": "Type", "value": "VR Headset"},
+      {"name": "Model", "value": "Vive Pro"},
+      {"name": "Resolution", "value": "2880x1600"}
+    ]
+  },
+  {
+    "internalId": "INT_054",
+    "globalTradeIdentifier": "0123456789065",
+    "attributes": [
+      {"name": "Brand", "value": "Bose"},
+      {"name": "Category", "value": "Audio"},
+      {"name": "Type", "value": "Soundbar"},
+      {"name": "Channels", "value": "5.1"},
+      {"name": "Wireless Subwoofer", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_055",
+    "globalTradeIdentifier": "0123456789066",
+    "attributes": [
+      {"name": "Brand", "value": "Yamaha"},
+      {"name": "Category", "value": "Audio"},
+      {"name": "Type", "value": "AV Receiver"},
+      {"name": "Channels", "value": "7.2"},
+      {"name": "4K Support", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_056",
+    "globalTradeIdentifier": "0123456789067",
+    "attributes": [
+      {"name": "Brand", "value": "Corsair"},
+      {"name": "Category", "value": "PC Components"},
+      {"name": "Type", "value": "RAM"},
+      {"name": "Capacity", "value": "32GB"},
+      {"name": "Speed", "value": "3200MHz"}
+    ]
+  },
+  {
+    "internalId": "INT_057",
+    "globalTradeIdentifier": "0123456789068",
+    "attributes": [
+      {"name": "Brand", "value": "NVIDIA"},
+      {"name": "Category", "value": "PC Components"},
+      {"name": "Type", "value": "Graphics Card"},
+      {"name": "Model", "value": "RTX 4090"},
+      {"name": "VRAM", "value": "24GB"}
+    ]
+  }
+,
+  {
+    "internalId": "INT_058",
+    "globalTradeIdentifier": "0123456789069",
+    "attributes": [
+      {"name": "Brand", "value": "AMD"},
+      {"name": "Category", "value": "PC Components"},
+      {"name": "Type", "value": "Processor"},
+      {"name": "Model", "value": "Ryzen 9 7950X"},
+      {"name": "Cores", "value": "16"}
+    ]
+  },
+  {
+    "internalId": "INT_059",
+    "globalTradeIdentifier": "0123456789070",
+    "attributes": [
+      {"name": "Brand", "value": "Intel"},
+      {"name": "Category", "value": "PC Components"},
+      {"name": "Type", "value": "Processor"},
+      {"name": "Model", "value": "Core i9-13900K"},
+      {"name": "Cores", "value": "24"}
+    ]
+  },
+  {
+    "internalId": "INT_060",
+    "globalTradeIdentifier": "0123456789071",
+    "attributes": [
+      {"name": "Brand", "value": "EVGA"},
+      {"name": "Category", "value": "PC Components"},
+      {"name": "Type", "value": "Power Supply"},
+      {"name": "Wattage", "value": "850W"},
+      {"name": "Modular", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_061",
+    "globalTradeIdentifier": "0123456789072",
+    "attributes": [
+      {"name": "Brand", "value": "NZXT"},
+      {"name": "Category", "value": "PC Components"},
+      {"name": "Type", "value": "PC Case"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Form Factor", "value": "Mid Tower"}
+    ]
+  },
+  {
+    "internalId": "INT_062",
+    "globalTradeIdentifier": "0123456789073",
+    "attributes": [
+      {"name": "Brand", "value": "Cooler Master"},
+      {"name": "Category", "value": "PC Components"},
+      {"name": "Type", "value": "CPU Cooler"},
+      {"name": "Cooling Type", "value": "Liquid"},
+      {"name": "Radiator Size", "value": "240mm"}
+    ]
+  },
+  {
+    "internalId": "INT_063",
+    "globalTradeIdentifier": "0123456789074",
+    "attributes": [
+      {"name": "Brand", "value": "Crucial"},
+      {"name": "Category", "value": "PC Components"},
+      {"name": "Type", "value": "SSD"},
+      {"name": "Capacity", "value": "1TB"},
+      {"name": "Interface", "value": "NVMe"}
+    ]
+  },
+  {
+    "internalId": "INT_064",
+    "globalTradeIdentifier": "0123456789075",
+    "attributes": [
+      {"name": "Brand", "value": "Lenovo"},
+      {"name": "Category", "value": "Computers"},
+      {"name": "Type", "value": "ThinkPad"},
+      {"name": "RAM", "value": "16GB"},
+      {"name": "Screen Size", "value": "14 inch"}
+    ]
+  },
+  {
+    "internalId": "INT_065",
+    "globalTradeIdentifier": "0123456789076",
+    "attributes": [
+      {"name": "Brand", "value": "Microsoft"},
+      {"name": "Category", "value": "Computers"},
+      {"name": "Type", "value": "Surface Laptop"},
+      {"name": "RAM", "value": "8GB"},
+      {"name": "Screen Size", "value": "13.5 inch"}
+    ]
+  },
+  {
+    "internalId": "INT_066",
+    "globalTradeIdentifier": "0123456789077",
+    "attributes": [
+      {"name": "Brand", "value": "Google"},
+      {"name": "Category", "value": "Smart Home"},
+      {"name": "Type", "value": "Smart Display"},
+      {"name": "Screen Size", "value": "10 inch"},
+      {"name": "Voice Assistant", "value": "Google Assistant"}
+    ]
+  },
+  {
+    "internalId": "INT_067",
+    "globalTradeIdentifier": "0123456789078",
+    "attributes": [
+      {"name": "Brand", "value": "Amazon"},
+      {"name": "Category", "value": "Smart Home"},
+      {"name": "Type", "value": "Echo Dot"},
+      {"name": "Generation", "value": "5th"},
+      {"name": "Voice Assistant", "value": "Alexa"}
+    ]
+  },
+  {
+    "internalId": "INT_068",
+    "globalTradeIdentifier": "0123456789079",
+    "attributes": [
+      {"name": "Brand", "value": "Nest"},
+      {"name": "Category", "value": "Smart Home"},
+      {"name": "Type", "value": "Thermostat"},
+      {"name": "WiFi", "value": "Yes"},
+      {"name": "Learning", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_069",
+    "globalTradeIdentifier": "0123456789080",
+    "attributes": [
+      {"name": "Brand", "value": "Ring"},
+      {"name": "Category", "value": "Smart Home"},
+      {"name": "Type", "value": "Video Doorbell"},
+      {"name": "Resolution", "value": "1080p"},
+      {"name": "Night Vision", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_070",
+    "globalTradeIdentifier": "0123456789081",
+    "attributes": [
+      {"name": "Brand", "value": "Philips Hue"},
+      {"name": "Category", "value": "Smart Home"},
+      {"name": "Type", "value": "Smart Bulb"},
+      {"name": "Color", "value": "RGB"},
+      {"name": "Dimmable", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_071",
+    "globalTradeIdentifier": "0123456789082",
+    "attributes": [
+      {"name": "Brand", "value": "Arlo"},
+      {"name": "Category", "value": "Smart Home"},
+      {"name": "Type", "value": "Security Camera"},
+      {"name": "Resolution", "value": "2K"},
+      {"name": "Wireless", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_072",
+    "globalTradeIdentifier": "0123456789083",
+    "attributes": [
+      {"name": "Brand", "value": "Ecobee"},
+      {"name": "Category", "value": "Smart Home"},
+      {"name": "Type", "value": "Smart Thermostat"},
+      {"name": "Voice Control", "value": "Yes"},
+      {"name": "Room Sensors", "value": "Included"}
+    ]
+  }
+,
+  {
+    "internalId": "INT_073",
+    "globalTradeIdentifier": "0123456789084",
+    "attributes": [
+      {"name": "Brand", "value": "August"},
+      {"name": "Category", "value": "Smart Home"},
+      {"name": "Type", "value": "Smart Lock"},
+      {"name": "Keyless Entry", "value": "Yes"},
+      {"name": "App Control", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_074",
+    "globalTradeIdentifier": "0123456789085",
+    "attributes": [
+      {"name": "Brand", "value": "Tile"},
+      {"name": "Category", "value": "Accessories"},
+      {"name": "Type", "value": "Bluetooth Tracker"},
+      {"name": "Range", "value": "400 ft"},
+      {"name": "Replaceable Battery", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_075",
+    "globalTradeIdentifier": "0123456789086",
+    "attributes": [
+      {"name": "Brand", "value": "AirTag"},
+      {"name": "Category", "value": "Accessories"},
+      {"name": "Type", "value": "Item Tracker"},
+      {"name": "Precision Finding", "value": "Yes"},
+      {"name": "Water Resistant", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_076",
+    "globalTradeIdentifier": "0123456789087",
+    "attributes": [
+      {"name": "Brand", "value": "Beats"},
+      {"name": "Category", "value": "Audio"},
+      {"name": "Type", "value": "Wireless Earbuds"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Noise Cancelling", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_077",
+    "globalTradeIdentifier": "0123456789088",
+    "attributes": [
+      {"name": "Brand", "value": "Sennheiser"},
+      {"name": "Category", "value": "Audio"},
+      {"name": "Type", "value": "Studio Headphones"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Impedance", "value": "150 Ohm"}
+    ]
+  },
+  {
+    "internalId": "INT_078",
+    "globalTradeIdentifier": "0123456789089",
+    "attributes": [
+      {"name": "Brand", "value": "Audio-Technica"},
+      {"name": "Category", "value": "Audio"},
+      {"name": "Type", "value": "Turntable"},
+      {"name": "Drive Type", "value": "Belt"},
+      {"name": "USB Output", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_079",
+    "globalTradeIdentifier": "0123456789090",
+    "attributes": [
+      {"name": "Brand", "value": "Shure"},
+      {"name": "Category", "value": "Audio"},
+      {"name": "Type", "value": "Microphone"},
+      {"name": "Polar Pattern", "value": "Cardioid"},
+      {"name": "USB", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_080",
+    "globalTradeIdentifier": "0123456789091",
+    "attributes": [
+      {"name": "Brand", "value": "Blue Yeti"},
+      {"name": "Category", "value": "Audio"},
+      {"name": "Type", "value": "USB Microphone"},
+      {"name": "Color", "value": "Black"},
+      {"name": "Multi-Pattern", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_081",
+    "globalTradeIdentifier": "0123456789092",
+    "attributes": [
+      {"name": "Brand", "value": "Elgato"},
+      {"name": "Category", "value": "Streaming"},
+      {"name": "Type", "value": "Stream Deck"},
+      {"name": "Keys", "value": "15"},
+      {"name": "LCD Keys", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_082",
+    "globalTradeIdentifier": "0123456789093",
+    "attributes": [
+      {"name": "Brand", "value": "Elgato"},
+      {"name": "Category", "value": "Streaming"},
+      {"name": "Type", "value": "Capture Card"},
+      {"name": "Resolution", "value": "4K60"},
+      {"name": "HDR", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_083",
+    "globalTradeIdentifier": "0123456789094",
+    "attributes": [
+      {"name": "Brand", "value": "Wacom"},
+      {"name": "Category", "value": "Accessories"},
+      {"name": "Type", "value": "Drawing Tablet"},
+      {"name": "Size", "value": "Medium"},
+      {"name": "Pressure Levels", "value": "8192"}
+    ]
+  },
+  {
+    "internalId": "INT_084",
+    "globalTradeIdentifier": "0123456789095",
+    "attributes": [
+      {"name": "Brand", "value": "Huion"},
+      {"name": "Category", "value": "Accessories"},
+      {"name": "Type", "value": "Pen Display"},
+      {"name": "Screen Size", "value": "22 inch"},
+      {"name": "Resolution", "value": "1920x1080"}
+    ]
+  },
+  {
+    "internalId": "INT_085",
+    "globalTradeIdentifier": "0123456789096",
+    "attributes": [
+      {"name": "Brand", "value": "Epson"},
+      {"name": "Category", "value": "Printers"},
+      {"name": "Type", "value": "Inkjet Printer"},
+      {"name": "Color", "value": "Yes"},
+      {"name": "WiFi", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_086",
+    "globalTradeIdentifier": "0123456789097",
+    "attributes": [
+      {"name": "Brand", "value": "Brother"},
+      {"name": "Category", "value": "Printers"},
+      {"name": "Type", "value": "Laser Printer"},
+      {"name": "Color", "value": "No"},
+      {"name": "Duplex", "value": "Yes"}
+    ]
+  }
+,
+  {
+    "internalId": "INT_087",
+    "globalTradeIdentifier": "0123456789098",
+    "attributes": [
+      {"name": "Brand", "value": "Canon"},
+      {"name": "Category", "value": "Printers"},
+      {"name": "Type", "value": "All-in-One"},
+      {"name": "Scanner", "value": "Yes"},
+      {"name": "Fax", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_088",
+    "globalTradeIdentifier": "0123456789099",
+    "attributes": [
+      {"name": "Brand", "value": "Roku"},
+      {"name": "Category", "value": "Streaming"},
+      {"name": "Type", "value": "Streaming Stick"},
+      {"name": "Resolution", "value": "4K"},
+      {"name": "Voice Remote", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_089",
+    "globalTradeIdentifier": "0123456789100",
+    "attributes": [
+      {"name": "Brand", "value": "Fire TV"},
+      {"name": "Category", "value": "Streaming"},
+      {"name": "Type", "value": "Streaming Device"},
+      {"name": "Resolution", "value": "4K"},
+      {"name": "Alexa", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_090",
+    "globalTradeIdentifier": "0123456789101",
+    "attributes": [
+      {"name": "Brand", "value": "Chromecast"},
+      {"name": "Category", "value": "Streaming"},
+      {"name": "Type", "value": "Streaming Dongle"},
+      {"name": "Resolution", "value": "4K"},
+      {"name": "Google TV", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_091",
+    "globalTradeIdentifier": "0123456789102",
+    "attributes": [
+      {"name": "Brand", "value": "Apple TV"},
+      {"name": "Category", "value": "Streaming"},
+      {"name": "Type", "value": "Media Player"},
+      {"name": "Resolution", "value": "4K"},
+      {"name": "Storage", "value": "64GB"}
+    ]
+  },
+  {
+    "internalId": "INT_092",
+    "globalTradeIdentifier": "0123456789103",
+    "attributes": [
+      {"name": "Brand", "value": "Withings"},
+      {"name": "Category", "value": "Health"},
+      {"name": "Type", "value": "Smart Scale"},
+      {"name": "WiFi", "value": "Yes"},
+      {"name": "Body Composition", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_093",
+    "globalTradeIdentifier": "0123456789104",
+    "attributes": [
+      {"name": "Brand", "value": "Omron"},
+      {"name": "Category", "value": "Health"},
+      {"name": "Type", "value": "Blood Pressure Monitor"},
+      {"name": "Bluetooth", "value": "Yes"},
+      {"name": "App Sync", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_094",
+    "globalTradeIdentifier": "0123456789105",
+    "attributes": [
+      {"name": "Brand", "value": "Oral-B"},
+      {"name": "Category", "value": "Personal Care"},
+      {"name": "Type", "value": "Electric Toothbrush"},
+      {"name": "Bluetooth", "value": "Yes"},
+      {"name": "Pressure Sensor", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_095",
+    "globalTradeIdentifier": "0123456789106",
+    "attributes": [
+      {"name": "Brand", "value": "Waterpik"},
+      {"name": "Category", "value": "Personal Care"},
+      {"name": "Type", "value": "Water Flosser"},
+      {"name": "Cordless", "value": "Yes"},
+      {"name": "Waterproof", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_096",
+    "globalTradeIdentifier": "0123456789107",
+    "attributes": [
+      {"name": "Brand", "value": "Theragun"},
+      {"name": "Category", "value": "Health"},
+      {"name": "Type", "value": "Massage Gun"},
+      {"name": "Speed Levels", "value": "5"},
+      {"name": "Battery Life", "value": "150 min"}
+    ]
+  },
+  {
+    "internalId": "INT_097",
+    "globalTradeIdentifier": "0123456789108",
+    "attributes": [
+      {"name": "Brand", "value": "Peloton"},
+      {"name": "Category", "value": "Fitness"},
+      {"name": "Type", "value": "Exercise Bike"},
+      {"name": "Screen Size", "value": "22 inch"},
+      {"name": "Live Classes", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_098",
+    "globalTradeIdentifier": "0123456789109",
+    "attributes": [
+      {"name": "Brand", "value": "NordicTrack"},
+      {"name": "Category", "value": "Fitness"},
+      {"name": "Type", "value": "Treadmill"},
+      {"name": "Incline", "value": "15%"},
+      {"name": "iFit Compatible", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_099",
+    "globalTradeIdentifier": "0123456789110",
+    "attributes": [
+      {"name": "Brand", "value": "Bowflex"},
+      {"name": "Category", "value": "Fitness"},
+      {"name": "Type", "value": "Adjustable Dumbbells"},
+      {"name": "Weight Range", "value": "5-52.5 lbs"},
+      {"name": "Space Saving", "value": "Yes"}
+    ]
+  },
+  {
+    "internalId": "INT_100",
+    "globalTradeIdentifier": "0123456789111",
+    "attributes": [
+      {"name": "Brand", "value": "Hydro Flask"},
+      {"name": "Category", "value": "Accessories"},
+      {"name": "Type", "value": "Water Bottle"},
+      {"name": "Capacity", "value": "32 oz"},
+      {"name": "Insulated", "value": "Yes"}
+    ]
+  }
+]
+

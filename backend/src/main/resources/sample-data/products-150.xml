@@ -1,0 +1,4063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BMECAT version="2005.1">
+  <HEADER>
+    <CATALOG>
+      <LANGUAGE>en</LANGUAGE>
+      <CATALOG_ID>SAMPLE_CATALOG_2025</CATALOG_ID>
+      <CATALOG_VERSION>1.0</CATALOG_VERSION>
+      <CATALOG_NAME>Sample Product Catalog</CATALOG_NAME>
+      <DATETIME type="generation_date">2025-11-18T00:00:00</DATETIME>
+    </CATALOG>
+  </HEADER>
+  <T_NEW_CATALOG>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_001</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Samsung Galaxy S24 Ultra</DESCRIPTION_SHORT>
+        <MANUFACTURER_PID>INT_201</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Samsung</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Samsung</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smartphones</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>512GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>12GB RAM</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_002</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>iPhone 15 Pro Max</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Apple flagship with titanium</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_202</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Apple</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Apple</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smartphones</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>256GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Titanium Blue</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_003</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Google Pixel 8 Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>AI-powered smartphone</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_203</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Google</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Google</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smartphones</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>128GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>12GB RAM</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_004</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>OnePlus 12</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>High-performance flagship</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_204</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>OnePlus</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>OnePlus</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smartphones</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>256GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>16GB RAM</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_005</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Xiaomi 14 Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Premium with Leica camera</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_205</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Xiaomi</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Xiaomi</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smartphones</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>512GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Leica Triple</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_006</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>iPad Pro 12.9</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Professional tablet M2</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_206</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Apple</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Apple</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Tablets</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>256GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>M2 Chip</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_007</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Galaxy Tab S9 Ultra</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Premium Android tablet</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_207</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Samsung</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Samsung</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Tablets</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>512GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>S Pen</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_008</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Surface Pro 9</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>2-in-1 laptop tablet</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_208</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Microsoft</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Microsoft</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Tablets</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>256GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>16GB RAM</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_009</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>MacBook Pro 16 M3</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Professional laptop</DESCRIPTION_LONG>
+        <GTIN>0234567890009</GTIN>
+        <MANUFACTURER_PID>INT_209</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Apple</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Apple</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Laptops</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>1TB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>36GB RAM</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_010</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Dell XPS 15</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Premium Windows laptop</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_210</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Dell</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Dell</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Laptops</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>1TB SSD</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>OLED 3.5K</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_011</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>HP Spectre x360</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Convertible laptop</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_211</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>HP</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>HP</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Laptops</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>512GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Touchscreen</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_012</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Lenovo ThinkPad X1</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Business ultrabook</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_212</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Lenovo</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Lenovo</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Laptops</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>512GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Carbon Fiber</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_013</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>ASUS ROG Zephyrus</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Gaming laptop</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_213</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>ASUS</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>ASUS</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Gaming Laptops</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>RTX 4060</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>165Hz</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_014</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Razer Blade 15</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Premium gaming laptop</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_214</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Razer</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Razer</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Gaming Laptops</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>RTX 4070</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>RGB</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_015</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Sony WH-1000XM5</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Noise-cancelling headphones</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_215</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Sony</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Sony</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>ANC</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>30 hours</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_016</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Bose QC 45</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Wireless headphones</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_216</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Bose</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Bose</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>ANC</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>24 hours</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_017</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>AirPods Pro 2</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>ANC earbuds</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_217</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Apple</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Apple</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>ANC</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Spatial Audio</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_018</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Galaxy Buds2 Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Premium earbuds</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_218</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Samsung</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Samsung</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>ANC</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Graphite</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_019</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Jabra Elite 85t</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Advanced earbuds</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_219</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Jabra</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Jabra</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>ANC</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Multipoint</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_020</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>LG C3 OLED 65</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>4K OLED TV</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_220</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>LG</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>LG</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>TVs</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>65 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>OLED</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_021</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Samsung QN90C</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Mini LED TV</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_221</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Samsung</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Samsung</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>TVs</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>75 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Neo QLED</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_022</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Sony A95K</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>QD-OLED TV</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_222</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Sony</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Sony</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>TVs</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>55 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>QD-OLED</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_023</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>TCL 6-Series</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Mini LED TV</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_223</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>TCL</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>TCL</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>TVs</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>65 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Dolby Vision</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_024</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Hisense U8K</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Mini LED TV</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_224</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Hisense</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Hisense</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>TVs</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>75 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>144Hz</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_025</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Gaming PC RTX 4090</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Custom gaming PC</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_225</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Custom</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Custom</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Gaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>RTX 4090</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>64GB RAM</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_026</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Alienware Aurora</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Gaming desktop</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_226</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Alienware</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Alienware</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Gaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>RTX 4080</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>32GB RAM</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_027</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Mac Studio</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Workstation</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_227</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Apple</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Apple</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Workstation</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>M2 Ultra</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>128GB RAM</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_028</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>iMac 24</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>All-in-one</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_228</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Apple</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Apple</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Desktop</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>M3</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>16GB RAM</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_029</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Canon EOS R5</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Mirrorless camera</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_229</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Canon</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Canon</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Cameras</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>45MP</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>8K Video</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_030</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Nikon Z9</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Pro camera</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_230</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Nikon</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Nikon</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Cameras</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>45.7MP</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>8K60</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_031</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Sony A7R V</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>High-res camera</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_231</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Sony</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Sony</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Cameras</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>61MP</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>8K</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_032</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Fujifilm X-T5</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>APS-C camera</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_232</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Fujifilm</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Fujifilm</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Cameras</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>40MP</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>6.2K</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_033</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>GoPro Hero 12</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Action camera</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_233</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>GoPro</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>GoPro</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Cameras</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>5.3K60</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Waterproof</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_034</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>DJI Mini 4 Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Compact drone</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_234</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>DJI</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>DJI</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Drones</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4K60</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>34 min</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_035</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>DJI Mavic 3 Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Pro drone</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_235</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>DJI</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>DJI</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Drones</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>5.1K50</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>43 min</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_036</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Parrot Anafi</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Foldable drone</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_236</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Parrot</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Parrot</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Drones</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4K HDR</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>25 min</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_037</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Switch OLED</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Gaming console</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_237</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Nintendo</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Nintendo</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Gaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>OLED</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>64GB</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_038</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>PS5 Slim</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Next-gen console</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_238</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Sony</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Sony</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Gaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4K</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>1TB</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_039</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Xbox Series S</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Compact console</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_239</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Microsoft</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Microsoft</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Gaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>1440p</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>512GB</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_040</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Steam Deck</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Handheld PC</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_240</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Valve</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Valve</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Gaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>AMD APU</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>512GB</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_041</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>ROG Ally</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Windows handheld</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_241</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>ASUS</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>ASUS</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Gaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Ryzen Z1</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>512GB</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_042</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Meta Quest 3</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>VR headset</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_242</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Meta</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Meta</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>VR</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Mixed Reality</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>128GB</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_043</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>PSVR2</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>PS5 VR</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_243</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Sony</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Sony</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>VR</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4K HDR</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Eye Tracking</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_044</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Valve Index</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>PC VR</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_244</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Valve</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Valve</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>VR</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>144Hz</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Finger Track</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_045</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Sonos Arc</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Soundbar</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_245</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Sonos</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Sonos</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Atmos</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>11 Speakers</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_046</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Bose 900</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Soundbar</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_246</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Bose</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Bose</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Atmos</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>9 Speakers</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_047</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>JBL Bar 1000</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Soundbar</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_247</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>JBL</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>JBL</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Atmos</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Wireless</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_048</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Yamaha RX-A8A</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>AV Receiver</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_248</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Yamaha</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Yamaha</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>11.2 Ch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>8K</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_049</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Denon AVR-X4800H</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>AV Receiver</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_249</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Denon</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Denon</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>9.4 Ch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>8K</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_050</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Corsair Vengeance</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>DDR5 RAM</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_250</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Corsair</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Corsair</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>PC Parts</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>32GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>6000MHz</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_051</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>G.Skill Trident</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>DDR5 RAM</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_251</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>G.Skill</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>G.Skill</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>PC Parts</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>64GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>6400MHz</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_052</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>RTX 4080</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Graphics card</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_252</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>NVIDIA</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>NVIDIA</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>PC Parts</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>16GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>4K Gaming</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_053</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>RX 7900 XTX</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Graphics card</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_253</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>AMD</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>AMD</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>PC Parts</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>24GB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>4K Gaming</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_054</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Core i9-14900K</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>CPU</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_254</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Intel</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Intel</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>PC Parts</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>24 Cores</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>6.0GHz</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_055</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Ryzen 9 7950X3D</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>CPU</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_255</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>AMD</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>AMD</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>PC Parts</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>16 Cores</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>3D Cache</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_056</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Samsung 990 PRO</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>NVMe SSD</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_256</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Samsung</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Samsung</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Storage</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>2TB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>7450MB/s</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_057</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>WD Black SN850X</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>NVMe SSD</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_257</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>WD</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>WD</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Storage</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>2TB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>7300MB/s</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_058</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>FireCuda 530</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>NVMe SSD</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_258</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Seagate</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Seagate</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Storage</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4TB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>7300MB/s</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_059</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Crucial P5 Plus</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>NVMe SSD</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_259</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Crucial</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Crucial</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Storage</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>1TB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>6600MB/s</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_060</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>ROG Swift OLED</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Gaming monitor</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_260</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>ASUS</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>ASUS</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Monitors</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>27 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>240Hz</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_061</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>LG UltraGear</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>OLED monitor</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_261</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>LG</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>LG</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Monitors</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>27 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>240Hz</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_062</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Odyssey G9</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Ultrawide</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_262</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Samsung</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Samsung</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Monitors</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>49 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>240Hz</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_063</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Dell UltraSharp</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Pro monitor</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_263</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Dell</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Dell</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Monitors</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>27 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>QHD</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_064</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>BenQ PD3220U</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Designer monitor</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_264</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>BenQ</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>BenQ</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Monitors</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>32 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>4K</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_065</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>MX Master 3S</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Wireless mouse</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_265</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Logitech</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Logitech</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>8K DPI</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Quiet</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_066</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>DeathAdder V3</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Gaming mouse</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_266</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Razer</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Razer</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>30K DPI</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Wireless</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_067</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Dark Core RGB</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Gaming mouse</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_267</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Corsair</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Corsair</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>18K DPI</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Qi</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_068</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Aerox 9</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>MMO mouse</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_268</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>SteelSeries</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>SteelSeries</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>18K DPI</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>12 Buttons</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_069</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Keychron Q1 Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Keyboard</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_269</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Keychron</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Keychron</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>75%</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Wireless</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_070</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>MX Keys S</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Keyboard</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_270</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Logitech</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Logitech</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Backlit</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Multi-device</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_071</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>K100 RGB</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Gaming keyboard</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_271</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Corsair</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Corsair</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Optical</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>RGB</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_072</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Ducky One 3</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Keyboard</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_272</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Ducky</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Ducky</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>TKL</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Hot-swap</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_073</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Aeron Chair</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Office chair</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_273</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Herman Miller</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Herman Miller</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Furniture</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Mesh</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Adjustable</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_074</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Titan Evo</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Gaming chair</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_274</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Secretlab</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Secretlab</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Furniture</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Leather</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>4D Arms</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_075</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>IKEA Markus</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Office chair</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_275</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>IKEA</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>IKEA</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Furniture</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>High-back</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Adjustable</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_076</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>ErgoChair Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Ergo chair</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_276</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Autonomous</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Autonomous</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Furniture</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Mesh</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Lumbar</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_077</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>FlexiSpot E7</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Standing desk</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_277</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>FlexiSpot</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>FlexiSpot</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Furniture</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Electric</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Dual Motor</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_078</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>IKEA Bekant</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Sit-stand desk</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_278</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>IKEA</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>IKEA</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Furniture</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Electric</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>160x80cm</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_079</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Uplift V2</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Standing desk</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_279</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Uplift</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Uplift</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Furniture</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Electric</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Commercial</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_080</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Jarvis Bamboo</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Standing desk</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_280</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Fully</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Fully</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Furniture</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Bamboo</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Programmable</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_081</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Dyson V15</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Vacuum</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_281</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Dyson</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Dyson</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Appliances</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Laser</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>60 min</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_082</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Roomba j7+</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Robot vacuum</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_282</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>iRobot</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>iRobot</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Appliances</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Self-empty</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Mapping</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_083</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Roborock S8</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Robot vacuum</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_283</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Roborock</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Roborock</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Appliances</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Auto-empty</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Auto-wash</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_084</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Shark AI</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Robot vacuum</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_284</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Shark</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Shark</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Appliances</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Self-empty</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Matrix</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_085</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>KitchenAid</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Stand mixer</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_285</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>KitchenAid</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>KitchenAid</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Kitchen</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>5 Quart</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>10 Speeds</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_086</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Vitamix A3500</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Blender</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_286</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Vitamix</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Vitamix</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Kitchen</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>64 oz</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Self-detect</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_087</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Breville Barista</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Espresso</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_287</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Breville</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Breville</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Kitchen</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>15 Bar</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Grinder</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_088</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Ninja Foodi</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Multi-cooker</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_288</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Ninja</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Ninja</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Kitchen</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Pressure</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Air Fry</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_089</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Instant Pot</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Pressure cooker</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_289</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Instant Pot</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Instant Pot</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Kitchen</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>8 Quart</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>10 Programs</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_090</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Cuisinart FP</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Food processor</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_290</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Cuisinart</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Cuisinart</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Kitchen</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>14 Cup</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>720W</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_091</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Nespresso</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Coffee maker</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_291</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Nespresso</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Nespresso</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Kitchen</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Centrifusion</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>5 Sizes</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_092</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Keurig Elite</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Coffee maker</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_292</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Keurig</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Keurig</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Kitchen</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>K-Cup</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Iced</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_093</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Norelco 9000</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Shaver</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_293</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Philips</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Philips</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Personal Care</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Wet/Dry</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>V-Track</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_094</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Series 9 Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Shaver</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_294</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Braun</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Braun</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Personal Care</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>5 Elements</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Wet/Dry</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_095</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Oral-B iO</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Toothbrush</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_295</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Oral-B</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Oral-B</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Personal Care</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>AI</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>7 Modes</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_096</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Sonicare 9900</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Toothbrush</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_296</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Philips</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Philips</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Personal Care</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>SenseIQ</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>App</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_097</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Airwrap</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Hair styler</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_297</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Dyson</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Dyson</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Personal Care</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Multi-styler</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Coanda</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_098</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Waterpik</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Water flosser</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_298</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Waterpik</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Waterpik</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Personal Care</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>10 Settings</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>7 Tips</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_099</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Watch Ultra 2</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smartwatch</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_299</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Apple</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Apple</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Wearables</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>49mm</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Titanium</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_100</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Galaxy Watch 6</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smartwatch</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_300</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Samsung</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Samsung</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Wearables</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>44mm</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Sapphire</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_101</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Fenix 7X</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>GPS watch</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_301</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Garmin</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Garmin</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Wearables</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>51mm</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Solar</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_102</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Sense 2</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smartwatch</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_302</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Fitbit</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Fitbit</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Wearables</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>ECG</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Stress</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_103</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>GTR 4</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smartwatch</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_303</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Amazfit</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Amazfit</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Wearables</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>46mm</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>150 Sports</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_104</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Whoop 4.0</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Fitness tracker</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_304</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Whoop</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Whoop</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Wearables</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Strap</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Recovery</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_105</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Oura Ring</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smart ring</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_305</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Oura</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Oura</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Wearables</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Sleep</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Titanium</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_106</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Vantage V3</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Sports watch</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_306</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Polar</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Polar</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Wearables</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>GPS</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Training</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_107</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Nest Hub Max</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smart display</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_307</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Google</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Google</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smart Home</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>10 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Camera</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_108</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Echo Show 15</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smart display</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_308</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Amazon</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Amazon</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smart Home</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>15.6 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Alexa</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_109</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Ring Doorbell</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smart doorbell</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_309</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Ring</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Ring</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smart Home</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>1536p</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>3D Motion</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_110</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Arlo Pro 5S</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Security cam</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_310</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Arlo</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Arlo</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smart Home</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>2K</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Spotlight</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_111</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Nest Cam</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Wireless cam</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_311</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Google</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Google</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smart Home</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>1080p</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Battery</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_112</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Ecobee Thermo</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Thermostat</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_312</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Ecobee</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Ecobee</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smart Home</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Voice</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Sensors</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_113</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>August Lock</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smart lock</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_313</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>August</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>August</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smart Home</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Keyless</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Auto-unlock</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_114</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Hue Starter</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smart lights</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_314</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Philips</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Philips</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smart Home</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>RGB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>4 Bulbs</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_115</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>LIFX A19</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smart bulb</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_315</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>LIFX</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>LIFX</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smart Home</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>RGB</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>No Hub</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_116</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Kasa Plug</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smart plug</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_316</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>TP-Link</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>TP-Link</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Smart Home</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>WiFi</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Energy</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_117</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Roku Stick 4K</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Streaming</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_317</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Roku</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Roku</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Streaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4K HDR</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Voice</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_118</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Fire TV 4K Max</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Streaming</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_318</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Amazon</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Amazon</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Streaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4K</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>WiFi 6E</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_119</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Chromecast</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Streaming</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_319</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Google</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Google</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Streaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4K</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Google TV</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_120</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Apple TV 4K</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Media player</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_320</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Apple</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Apple</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Streaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4K HDR</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>128GB</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_121</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Shield TV Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Android TV</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_321</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>NVIDIA</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>NVIDIA</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Streaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4K AI</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>16GB</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_122</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Body Comp</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Smart scale</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_322</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Withings</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Withings</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Health</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Body Comp</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>WiFi</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_123</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Omron Evolv</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>BP monitor</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_323</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Omron</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Omron</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Health</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Wireless</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>One-piece</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_124</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Theragun Elite</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Massage gun</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_324</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Theragun</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Theragun</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Health</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>5 Speeds</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>120 min</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_125</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Hypervolt 2</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Massager</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_325</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Hyperice</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Hyperice</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Health</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>5 Speeds</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Bluetooth</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_126</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Peloton Bike+</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Exercise bike</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_326</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Peloton</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Peloton</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Fitness</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>24 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Auto-follow</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_127</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>NordicTrack</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Treadmill</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_327</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>NordicTrack</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>NordicTrack</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Fitness</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>14 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>iFit</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_128</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>SelectTech 552</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Dumbbells</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_328</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Bowflex</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Bowflex</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Fitness</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>5-52.5 lbs</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>15 Weights</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_129</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Hydro Flask</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Water bottle</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_329</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Hydro Flask</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Hydro Flask</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>32 oz</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Insulated</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_130</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>YETI Rambler</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Tumbler</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_330</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>YETI</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>YETI</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>30 oz</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>MagSlider</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_131</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>PowerCore</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Power bank</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_331</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Anker</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Anker</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>26800mAh</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>3 Ports</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_132</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>RAVPower 60W</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>USB-C charger</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_332</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>RAVPower</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>RAVPower</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>60W</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>GaN</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_133</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Belkin 3-in-1</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Wireless charger</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_333</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Belkin</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Belkin</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>15W</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>MagSafe</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_134</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Tile Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Tracker</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_334</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Tile</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Tile</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>400 ft</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Battery</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_135</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>AirTag 4-Pack</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Tracker</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_335</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Apple</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Apple</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Precision</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>4 Pack</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_136</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Beats Studio</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Headphones</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_336</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Beats</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Beats</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>ANC</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>40 hours</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_137</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Momentum 4</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Headphones</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_337</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Sennheiser</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Sennheiser</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>ANC</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>60 hours</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_138</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>AT-LP120X</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Turntable</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_338</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Audio-Technica</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Audio-Technica</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Direct Drive</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>USB</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_139</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>SM7B</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Microphone</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_339</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Shure</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Shure</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Cardioid</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Studio</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_140</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Yeti X</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>USB mic</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_340</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Blue</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Blue</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Audio</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4 Patterns</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>LED</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_141</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Stream Deck XL</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Controller</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_341</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Elgato</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Elgato</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Streaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>32 Keys</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>LCD</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_142</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>HD60 X</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Capture card</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_342</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Elgato</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Elgato</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Streaming</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>4K60 HDR</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>USB-C</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_143</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Intuos Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Drawing tablet</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_343</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Wacom</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Wacom</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Medium</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>8192</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_144</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Kamvas Pro 24</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Pen display</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_344</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Huion</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Huion</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>24 inch</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>2.5K</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_145</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>EcoTank ET-4850</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Printer</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_345</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Epson</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Epson</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Printers</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>All-in-One</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Cartridge-free</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_146</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>HL-L3290CDW</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Laser printer</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_346</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Brother</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Brother</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Printers</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Duplex</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>WiFi</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_147</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>PIXMA TR8620</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>Printer</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_347</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Canon</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Canon</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Printers</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>5-Ink</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>ADF</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_148</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>HP OfficeJet Pro</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>All-in-one printer</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_348</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>HP</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>HP</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Printers</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>Color Inkjet</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Instant Ink</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_149</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Logitech C920</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>HD webcam</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_349</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Logitech</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Logitech</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>1080p</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>Autofocus</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    <PRODUCT mode="new">
+      <SUPPLIER_PID>PROD_150</SUPPLIER_PID>
+      <PRODUCT_DETAILS>
+        <DESCRIPTION_SHORT>Anker USB-C Hub</DESCRIPTION_SHORT>
+        <DESCRIPTION_LONG>7-in-1 adapter</DESCRIPTION_LONG>
+        <MANUFACTURER_PID>INT_350</MANUFACTURER_PID>
+        <MANUFACTURER_NAME>Anker</MANUFACTURER_NAME>
+      </PRODUCT_DETAILS>
+      <PRODUCT_FEATURES>
+        <FEATURE>
+          <FNAME>Brand</FNAME>
+          <FVALUE>Anker</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Category</FNAME>
+          <FVALUE>Accessories</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature1</FNAME>
+          <FVALUE>7 Ports</FVALUE>
+        </FEATURE>
+        <FEATURE>
+          <FNAME>Feature2</FNAME>
+          <FVALUE>4K HDMI</FVALUE>
+        </FEATURE>
+      </PRODUCT_FEATURES>
+    </PRODUCT>
+  </T_NEW_CATALOG>
+</BMECAT>

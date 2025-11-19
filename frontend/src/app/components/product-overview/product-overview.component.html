@@ -1,0 +1,219 @@
+<mat-card>
+  <mat-card-header>
+    <mat-card-title>Product Management</mat-card-title>
+    <div class="header-actions">
+      <button 
+        mat-raised-button 
+        color="primary" 
+        (click)="runJsonImport()" 
+        [disabled]="importing">
+        <mat-icon>cloud_download</mat-icon>
+        {{ importing ? 'Importing...' : 'Run JSON Import' }}
+      </button>
+      <mat-spinner *ngIf="importing" diameter="24" class="import-spinner"></mat-spinner>
+    </div>
+  </mat-card-header>
+  
+  <mat-card-content>
+    <mat-tab-group>
+      <!-- Internal Products Tab -->
+      <mat-tab label="Internal Products">
+        <div class="tab-content">
+          <div class="table-header">
+            <h3>Internal Products ({{ internalProducts.length }})</h3>
+            <button mat-raised-button color="accent" (click)="loadInternalProducts()">
+              <mat-icon>refresh</mat-icon>
+              Refresh
+            </button>
+          </div>
+          
+          <div *ngIf="loading" class="loading-container">
+            <mat-spinner></mat-spinner>
+          </div>
+          
+          <table mat-table [dataSource]="internalProducts" class="full-width" *ngIf="!loading">
+            <ng-container matColumnDef="internalId">
+              <th mat-header-cell *matHeaderCellDef>Internal ID</th>
+              <td mat-cell *matCellDef="let product">{{ product.internalId }}</td>
+            </ng-container>
+
+            <ng-container matColumnDef="globalTradeIdentifier">
+              <th mat-header-cell *matHeaderCellDef>GTIN</th>
+              <td mat-cell *matCellDef="let product">{{ product.globalTradeIdentifier || 'N/A' }}</td>
+            </ng-container>
+
+            <ng-container matColumnDef="attributes">
+              <th mat-header-cell *matHeaderCellDef>Attributes</th>
+              <td mat-cell *matCellDef="let product">
+                <div class="attributes-cell">
+                  {{ formatAttributes(product.attributes) }}
+                </div>
+              </td>
+            </ng-container>
+
+            <tr mat-header-row *matHeaderRowDef="internalProductColumns"></tr>
+            <tr mat-row *matRowDef="let row; columns: internalProductColumns;"></tr>
+          </table>
+        </div>
+      </mat-tab>
+
+      <!-- Data Provider Products Tab -->
+      <mat-tab label="Data Provider Products">
+        <div class="tab-content">
+          <div class="table-header">
+            <h3>Data Provider Products ({{ dataProviderProducts.length }})</h3>
+            <button mat-raised-button color="accent" (click)="loadDataProviderProducts()">
+              <mat-icon>refresh</mat-icon>
+              Refresh
+            </button>
+          </div>
+          
+          <div *ngIf="loading" class="loading-container">
+            <mat-spinner></mat-spinner>
+          </div>
+          
+          <table mat-table [dataSource]="dataProviderProducts" class="full-width" *ngIf="!loading">
+            <ng-container matColumnDef="dataProviderId">
+              <th mat-header-cell *matHeaderCellDef>Provider ID</th>
+              <td mat-cell *matCellDef="let product">{{ product.dataProviderId }}</td>
+            </ng-container>
+
+            <ng-container matColumnDef="externalId">
+              <th mat-header-cell *matHeaderCellDef>External ID</th>
+              <td mat-cell *matCellDef="let product">{{ product.externalId }}</td>
+            </ng-container>
+
+            <ng-container matColumnDef="globalTradeIdentifier">
+              <th mat-header-cell *matHeaderCellDef>GTIN</th>
+              <td mat-cell *matCellDef="let product">{{ product.globalTradeIdentifier || 'N/A' }}</td>
+            </ng-container>
+
+            <ng-container matColumnDef="associationStrategy">
+              <th mat-header-cell *matHeaderCellDef>Strategy</th>
+              <td mat-cell *matCellDef="let product">{{ product.associationStrategy || 'N/A' }}</td>
+            </ng-container>
+
+            <ng-container matColumnDef="attributes">
+              <th mat-header-cell *matHeaderCellDef>Attributes</th>
+              <td mat-cell *matCellDef="let product">
+                <div class="attributes-cell">
+                  {{ formatAttributes(product.attributes) }}
+                </div>
+              </td>
+            </ng-container>
+
+            <ng-container matColumnDef="associatedProduct">
+              <th mat-header-cell *matHeaderCellDef>Associated Product</th>
+              <td mat-cell *matCellDef="let product">
+                <span [class.associated]="product.associatedProduct" [class.not-associated]="!product.associatedProduct">
+                  {{ getAssociatedProductId(product) }}
+                </span>
+              </td>
+            </ng-container>
+
+            <tr mat-header-row *matHeaderRowDef="dataProviderProductColumns"></tr>
+            <tr mat-row *matRowDef="let row; columns: dataProviderProductColumns;"></tr>
+          </table>
+        </div>
+      </mat-tab>
+
+      <!-- Product Comparison Tab -->
+      <mat-tab label="Product Comparison">
+        <div class="tab-content">
+          <div class="comparison-header">
+            <mat-form-field appearance="outline">
+              <mat-label>Select Internal Product</mat-label>
+              <mat-select [(value)]="selectedProduct" (selectionChange)="onProductSelected($event.value)">
+                <mat-option *ngFor="let product of internalProducts" [value]="product">
+                  {{ product.internalId }} - {{ product.globalTradeIdentifier || 'No GTIN' }}
+                </mat-option>
+              </mat-select>
+            </mat-form-field>
+          </div>
+
+          <div *ngIf="selectedProduct" class="comparison-container">
+            <!-- Internal Product Details -->
+            <div class="product-details">
+              <h3>Internal Product</h3>
+              <table class="details-table">
+                <tr>
+                  <th>Property</th>
+                  <th>Value</th>
+                </tr>
+                <tr>
+                  <td><strong>Internal ID</strong></td>
+                  <td>{{ selectedProduct.internalId }}</td>
+                </tr>
+                <tr>
+                  <td><strong>GTIN</strong></td>
+                  <td>{{ selectedProduct.globalTradeIdentifier || 'N/A' }}</td>
+                </tr>
+                <tr class="section-header">
+                  <td colspan="2"><strong>Attributes</strong></td>
+                </tr>
+                <tr *ngIf="!selectedProduct.attributes || selectedProduct.attributes.length === 0">
+                  <td colspan="2" class="no-data">No attributes</td>
+                </tr>
+                <tr *ngFor="let attr of selectedProduct.attributes">
+                  <td>{{ attr.name }}</td>
+                  <td>{{ attr.value }}</td>
+                </tr>
+              </table>
+            </div>
+
+            <!-- Associated Data Provider Products -->
+            <div class="product-details">
+              <h3>Associated Data Provider Products ({{ associatedDataProviderProducts.length }})</h3>
+
+              <div *ngIf="associatedDataProviderProducts.length === 0" class="no-data">
+                No associated data provider products found.
+              </div>
+
+              <div *ngFor="let dpProduct of associatedDataProviderProducts; let i = index" class="dp-product-section">
+                <h4>{{ dpProduct.dataProviderId }} - {{ dpProduct.externalId }}</h4>
+                <table class="details-table">
+                  <tr>
+                    <th>Property</th>
+                    <th>Value</th>
+                  </tr>
+                  <tr>
+                    <td><strong>Provider ID</strong></td>
+                    <td>{{ dpProduct.dataProviderId }}</td>
+                  </tr>
+                  <tr>
+                    <td><strong>External ID</strong></td>
+                    <td>{{ dpProduct.externalId }}</td>
+                  </tr>
+                  <tr>
+                    <td><strong>GTIN</strong></td>
+                    <td>{{ dpProduct.globalTradeIdentifier || 'N/A' }}</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Association Strategy</strong></td>
+                    <td>{{ dpProduct.associationStrategy || 'N/A' }}</td>
+                  </tr>
+                  <tr class="section-header">
+                    <td colspan="2"><strong>Attributes</strong></td>
+                  </tr>
+                  <tr *ngIf="!dpProduct.attributes || dpProduct.attributes.length === 0">
+                    <td colspan="2" class="no-data">No attributes</td>
+                  </tr>
+                  <tr *ngFor="let attr of dpProduct.attributes">
+                    <td>{{ attr.name }}</td>
+                    <td>{{ attr.value }}</td>
+                  </tr>
+                </table>
+              </div>
+            </div>
+          </div>
+
+          <div *ngIf="!selectedProduct" class="no-selection">
+            <mat-icon>info</mat-icon>
+            <p>Please select an internal product to view details and associated data provider products.</p>
+          </div>
+        </div>
+      </mat-tab>
+    </mat-tab-group>
+  </mat-card-content>
+</mat-card>
+
