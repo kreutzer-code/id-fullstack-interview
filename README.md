@@ -149,7 +149,7 @@ The challenge is intended to take you about 3h.
 
 ### Task 1: Understand the Project
 Understand the project's architecture and functionality. Get the code running locally.
-Create a feature branch for yourself (feat/<firstname>-<lastname>).
+Create a feature branch for yourself (feat/\<firstname>-\<lastname>).
 
 ### Task 2: Implement XML Data Provider
 Implement a second type of data provider that can import `backend/src/main/resources/sample-data/products-150.xml`.
@@ -163,7 +163,7 @@ In the product comparison tab, add a simple functionality that lets the user map
 Please document your thoughts about the problem/code whenever needed into the code and/or in a separate file.
 
 ### Use feature branch
-Please commit all your changes to the feature branch created in Task 1 (feat/<firstname>-<lastname>). Push only to this branch.
+Please commit all your changes to the feature branch created in Task 1 (feat/\<firstname>-\<lastname>). Push only to this branch.
 
 ---
 
